@@ -1,28 +1,32 @@
-# Payroll-Management-System
+# Overtime-Monitoring-System
 
-A simple Payroll Management System where you can 
+Overtime Monitoring System
 
-Add
-Update
-Delete
-Search 
 
-Employees from the System
+User Authentication
+----------------------------------------------
+-Login: Secure login for authorized access.
 
-Add
-Update
-Delete 
 
-Salary details
+Dashboard
+----------------------------------------------
+-Dashboard: A comprehensive dashboard providing an overview of key metrics and system functionalities.
 
-Add
-Update
-Delete 
 
-Leave details 
+Employee Management
+The system allows you to:
+----------------------------------------------
+-Enter Employee: Add new employees to the system.
 
-Generate and Print Pay Slips
+-Update Employee: Modify existing employee details.
 
-Database file is also included
+-Delete Employee: Remove employees from the system.
 
-GUI is done using Java Swing Framework
+-Search Employee: Search for employees within the system.
+
+
+Overtime Management
+----------------------------------------------
+Overtime Entry: Record overtime entries for employees.
+
+Overtime Log: Maintain a log of all recorded overtime entries.
